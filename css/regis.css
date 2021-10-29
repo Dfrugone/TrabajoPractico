@@ -36,8 +36,9 @@ body {
 }
 
 .title {
-    font-size: 56px;
+    font-size: 68px;
     font-weight: 300;
+    margin-top: 1em;
     color: #fff;
 }
 .band__textos {
@@ -52,8 +53,10 @@ h1{
     font-weight: 700;
 }
 #ubicacion{
-    margin-bottom: 8em;
+    margin-bottom: 7em;
+    font-size: 3em;
 }
+
 .boton {
     border-radius: 50%;
     width: 150px;
