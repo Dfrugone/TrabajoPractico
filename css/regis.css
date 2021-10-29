@@ -16,9 +16,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-.volver{
-    position: absolute;
-}
 
 body {
     font-family: 'Roboto';
@@ -44,17 +41,10 @@ body {
 .band__textos {
     width: 48%;
 }
-.mapa{
-    align-items: center;
-    margin-right: 12em;
-}
+
 h1{
     text-align: center;
     font-weight: 700;
-}
-#ubicacion{
-    margin-bottom: 7em;
-    font-size: 3em;
 }
 
 .boton {
