@@ -456,25 +456,6 @@ body {
     flex-wrap: wrap;
 }
 
-.copyright {
-    width: 100%;
-}
-
-.politica__privacidad {
-    color: inherit;
-    text-decoration: none;
-    display: inline-block;
-    margin-top: 10px;
-}
-
-.politica__privacidad:hover {
-    text-decoration: underline;
-}
-
-.politica__privacidad--margin {
-    margin-right: 10px;
-}
-
 
 .socialmedia {
     margin-top: 24px;
@@ -492,8 +473,6 @@ body {
     color: var(--black2);
     margin-right: 16px;
 }
-
-
 
 @media screen and (max-width:900px) {
     .portada {
